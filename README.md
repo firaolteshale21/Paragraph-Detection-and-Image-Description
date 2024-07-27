@@ -1,6 +1,4 @@
-markdown
 
-Copy
 # Paragraph Detection and Image Description
 
 This project is a machine learning-based application that performs two main tasks:
