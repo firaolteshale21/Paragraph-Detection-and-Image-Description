@@ -19,19 +19,15 @@ This project is a machine learning-based application that performs two main task
 git clone https://github.com/your-username/Paragraph-Detection-and-Image-Description.git
 
 
-Copy
+
 2. Install the required dependencies:
 cd Paragraph-Detection-and-Image-Description
 pip install -r requirements.txt
 
 
-Copy
 3. Run the application:
-python main.py
+python app.py
 
-livecodeserver
-
-Copy
 
 ## Usage
 
