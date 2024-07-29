@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 opencv-python
 numpy
 pillow
 transformers
 torch
+=======
+opencv-python==4.5.5.64
+pillow==9.2.0
+tensorflow==2.9.1
+keras==2.9.0
+pytorch==1.12.1
+transformers==4.21.1
+flask==2.2.2
+django==4.1.1
+>>>>>>> 6a966f2b50ff56588bedd85f5bd6ecee35712b00
