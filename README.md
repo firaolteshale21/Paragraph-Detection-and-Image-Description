@@ -16,7 +16,7 @@ This project is a machine learning-based application that performs two main task
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/firaolteshale21Paragraph-Detection-and-Image-Description.git
+git clone https://github.com/firaolteshale21/Paragraph-Detection-and-Image-Description.git
 
 
 
